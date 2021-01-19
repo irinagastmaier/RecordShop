@@ -1,0 +1,33 @@
+{
+  "records": [
+    {
+      "title": "title 1",
+      "artist": "Peter",
+      "year": 2020,
+      "price": 20,
+      "image": "image url",
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "first_name": "John",
+      "last_name": "Smith",
+      "email": "john@gmail.com",
+      "password": "123abc",
+      "id": 1
+    },
+    {
+      "id": "1611062422981"
+    }
+  ],
+  "orders": [
+    {
+      "quantity": 1,
+      "record_id": 1
+    },
+    {
+      "record_id": "1611063030582"
+    }
+  ]
+}
